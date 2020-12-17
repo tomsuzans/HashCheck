@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashChek", "HashChek.csproj", "{E9279084-3447-4F3F-A0E6-E62B537C597E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9279084-3447-4F3F-A0E6-E62B537C597E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9279084-3447-4F3F-A0E6-E62B537C597E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9279084-3447-4F3F-A0E6-E62B537C597E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9279084-3447-4F3F-A0E6-E62B537C597E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCF452C3-FF5C-4EFB-BC61-C3DD127F79AA}
+	EndGlobalSection
+EndGlobal
